@@ -36,4 +36,4 @@
 </details> 
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fabri115)](https://github.com/Fabri115/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fabri115)]
