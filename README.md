@@ -38,5 +38,5 @@
 
 <h3 align="left">Visitor</h3>
 <p align="center">
-<img src="https://count.caliphdev.my.id/get/Fabri115?theme=rule34" alt="visitor.svg">
+<img src="https://count.caliphdev.my.id/get/@Fabri115?theme=rule34" alt="visitor.svg">
 </p>
