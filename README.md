@@ -6,6 +6,8 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=Fabri115&show_icons=true&theme=chartreuse-dark)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabri115&layout=compact&theme=chartreuse-dark)
 
+![Snake animation](https://github.com/Fabri115/Fabri115/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 -----
 
