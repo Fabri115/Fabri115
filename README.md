@@ -36,7 +36,4 @@
 </details> 
 
 
-<h3 align="left">Visitor</h3>
-<p align="center">
-<img src="https://count.caliphdev.my.id/get/@Fabri115?theme=rule34" alt="visitor.svg">
-</p>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fabri115)](https://github.com/Fabri115/github-readme-stats)
