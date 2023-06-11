@@ -10,11 +10,11 @@
 -----
 
 ## Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=botwhaita&theme=monokai)
-<p align="center"><a href="https://github.com/botwhaita"><img src="https://github-readme-stats.vercel.app/api?username=botwhaita&show_icons=true&theme=radical"></a></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=botwhaita&theme=dark" alt="botwhaita" /></p>
-<p align="center"><a href="https://github.com/botwhaita"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=botwhaita&theme=radical&layout=compact"></a></p> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=botwhaita&theme=vue">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabri115&theme=monokai)
+<p align="center"><a href="https://github.com/Fabri115"><img src="https://github-readme-stats.vercel.app/api?username=Fabri115&show_icons=true&theme=radical"></a></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fabri115&theme=dark" alt="botwhaita" /></p>
+<p align="center"><a href="https://github.com/Fabri115"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabri115&theme=radical&layout=compact"></a></p> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabri115&theme=vue">
 
 
 <p align="center">
