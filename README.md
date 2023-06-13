@@ -3,6 +3,10 @@
 ### BENVENUTO NEL MIO PROFILO 👋
 
 
+```SE MI VUOI BENE, DONA PER FARMI COMPRARE LE API KEYS VIP ```
+[`paypal > fabri115 > se non doni ti si banna il numero`](https://www.paypal.me/Fabri115i)
+
+
 <a href="https://wa.me/393518398856" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 <a href="https://chat.whatsapp.com/BkkpEpAa4DlDWf8nF4qogl" target="_blank"><img src="https://img.shields.io/badge/Grupo-%808080.svg?&style=flat-square&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
 
