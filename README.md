@@ -6,7 +6,9 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Fabri115}/count.svg" alt="Fabri115 :: Visitor's Count" /></p>
 
+HANNO GIÀ VISUALIZZATO IL PROFILO
 
+---
 ```SE MI VUOI BENE, DONA PER FARMI COMPRARE LE API KEYS VIP ```
 [`paypal > fabri115 > se non doni ti si banna il numero`](https://www.paypal.me/Fabri115i)
 
