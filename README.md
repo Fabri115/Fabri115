@@ -22,8 +22,11 @@
 ## Stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Fabri115&show_icons=true&theme=chartreuse-dark)
+
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabri115&layout=compact&theme=chartreuse-dark)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabri115&theme=monokai)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fabri115&theme=dark" alt="botwhaita" /></p>
 <p align="center">
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
