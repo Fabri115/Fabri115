@@ -25,7 +25,6 @@
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabri115&layout=compact&theme=chartreuse-dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabri115&theme=monokai)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fabri115&theme=dark" alt="botwhaita" /></p>
-<p align="center"><a href="https://github.com/Fabri115"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabri115&theme=radical&layout=compact"></a></p> 
 <p align="center">
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -47,6 +46,9 @@
 
 ![Metrics](https://metrics.lecoq.io/Fabri115?)
 </details> 
+
+---
+
 ![Snake animation](https://github.com/Fabri115/Fabri115/blob/output/github-contribution-grid-snake.svg)
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
