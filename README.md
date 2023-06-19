@@ -23,6 +23,8 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Fabri115&show_icons=true&theme=chartreuse-dark)
 
+![github stats](https://github-readme-traffic.vercel.app/api?username=Fabri115&show_icons=true&theme=chartreuse-dark)
+
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabri115&layout=compact&theme=chartreuse-dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabri115&theme=monokai)
