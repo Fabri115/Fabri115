@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=lf95b9&height=120&section=header"/>
 
 ##  👀 HANNO GIÀ VISUALIZZATO IL PROFILO
 <p align="center"><img src="https://profile-counter.glitch.me/{Fabri115}/count.svg" alt="Fabri115 :: Visitor's Count" /></p>
@@ -7,7 +7,7 @@
 <a href="https://github.com/Fabri115/followers"><img title="Followers" src="https://img.shields.io/github/followers/Fabri115?color=red&style=flat-square"></a>
 <a href="https://github.com/Fabri115/Fabri115/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Fabri115?color=blue&style=flat-square"></a>
 <a href="https://github.com/Fabri115/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fabri115/botwhaita?color=red&style=flat-square"></a>
-<a href="https://github.com/Fabri115/Fabri115/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fabri115/Fabri115?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Fabri115/Fabri115/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fabri115/botwhaita?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Fabri115/botwhaita"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/Fabri115/AyGemuy/"><img title="Size" src="https://img.shields.io/github/repo-size/Fabri115/botwhaita?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFabri115%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
@@ -62,7 +62,8 @@
 
 ![Snake animation](https://github.com/Fabri115/Fabri115/blob/output/github-contribution-grid-snake.svg)
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=lf91a4&height=120&section=footer"/>
 
 
 
