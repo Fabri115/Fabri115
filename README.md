@@ -10,12 +10,26 @@
 
 ---
 
-## ```SE MI VUOI BENE, DONA PER FARMI COMPRARE LE API KEYS VIP ```
-[`paypal > fabri115 > se non doni ti si banna il numero`](https://www.paypal.me/Fabri115i)
+<p align="center">
+<a href="https://github.com/Fabri115/followers"><img title="Followers" src="https://img.shields.io/github/followers/Fabri115?color=red&style=flat-square"></a>
+<a href="https://github.com/Fabri115/Fabri115/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Fabri115?color=blue&style=flat-square"></a>
+<a href="https://github.com/Fabri115/Fabri115/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fabri115/botwhaita?color=red&style=flat-square"></a>
+<a href="https://github.com/Fabri115/Fabri115/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fabri115/Fabri115?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Fabri115/botwhaita"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/Fabri115/AyGemuy/"><img title="Size" src="https://img.shields.io/github/repo-size/Fabri115/botwhaita?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFabri115%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Fabri115/botwhaita/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
 
-
+<p align='center'>
 <a href="https://wa.me/393518398856" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 <a href="https://chat.whatsapp.com/BkkpEpAa4DlDWf8nF4qogl" target="_blank"><img src="https://img.shields.io/badge/Grupo-%808080.svg?&style=flat-square&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
+
+
+---
+
+## ```SE MI VUOI BENE, DONA PER FARMI COMPRARE LE API KEYS VIP ```
+[`paypal > fabri115 > se non doni ti si banna il numero`](https://www.paypal.me/Fabri115i)
 
 ---
 
