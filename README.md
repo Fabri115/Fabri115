@@ -12,8 +12,10 @@
 <a href="https://github.com/Fabri115/botwhaita"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/Fabri115/AyGemuy/"><img title="Size" src="https://img.shields.io/github/repo-size/Fabri115/botwhaita?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFabri115%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Fabri115/botwhaita/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
+<a href="https://github.com/Fabri115/botwhaita/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a
+                                                                                                                                                           
+[![Github All Releases](https://img.shields.io/github/downloads/Fabri115/botwhaita/total.svg?style=for-the-badge)](https://github.com/Fabri115/botwhaita/releases)
+    
 
 <p align='center'>
 <a href="https://wa.me/393518398856" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
