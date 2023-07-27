@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=lf95b9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=lf95b9&height=100&section=header"/>
 
 ##  👀 HANNO GIÀ VISUALIZZATO IL PROFILO
 <p align="center"><img src="https://profile-counter.glitch.me/{Fabri115}/count.svg" alt="Fabri115 :: Visitor's Count" /></p>
@@ -24,19 +24,23 @@
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+<p align="center">
+<a href="https://www.buymeacoffee.com/Fabri115"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a candy&emoji=🍬&slug=Fabri115&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+
 
 -----
 
 ### 👀 Repository Attive
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabri115&repo=botwhaita&theme=chartreuse-dark "Fabri115")](https://github.com/Fabri115/botwhaita)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabri115&repo=Botunbanwhatsapp&theme=chartreuse-dark "Botunbanwhatsapp")](https://github.com/Fabri115/Botunbanwhatsapp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabri115&repo=botwhaita&theme=dark "Fabri115")](https://github.com/Fabri115/botwhaita)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabri115&repo=Botunbanwhatsapp&theme=dark "Botunbanwhatsapp")](https://github.com/Fabri115/Botunbanwhatsapp)
 
 ---
 
-### 🏆 Github Status
-![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabri115&show_icons=true&theme=chartreuse-dark&hide_border=true)
-![My Github Status](https://github-readme-stats.vercel.app/api?username=Fabri115&show_icons=true&theme=chartreuse-dark&hide_border=true) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabri115&theme=chartreuse-dark)
+### 🏆 Github Status 
+![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabri115&show_icons=true&theme=dark&hide_border=true)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=Fabri115&show_icons=true&theme=dark&hide_border=true) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabri115&theme=dark)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fabri115&theme=dark" alt="botwhaita" /></p>
 
 ---
@@ -66,29 +70,6 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=lf91a4&height=120&section=footer"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
