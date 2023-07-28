@@ -7,7 +7,7 @@
 <a href="https://github.com/Fabri115/followers"><img title="Followers" src="https://img.shields.io/github/followers/Fabri115?color=red&style=flat-square"></a>
 <a href="https://github.com/Fabri115/Fabri115/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Fabri115?color=blue&style=flat-square"></a>
 <a href="https://github.com/Fabri115/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fabri115/botwhaita?color=red&style=flat-square"></a>
-<a href="https://komarev.com/ghpvc/?username=Fabri115&color=blue&style=flat-square&label=Repo+Visual"><img src="https://komarev.com/ghpvc/?username=Fabri115&color=blue&style=flat-square&label=Profile+Visual" />
+<a href="https://komarev.com/ghpvc/?username=Fabri115&color=blue&style=flat-square&label=Repo+Visual"><img src="https://komarev.com/ghpvc/?username=Fabri115&color=blue&style=flat-square&label=Repo+Visual" />
 <a href="https://github.com/Fabri115/Fabri115/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fabri115/botwhaita?label=Watcher'srepo&color=blue&style=flat-square"></a>
 <a href="https://github.com/Fabri115/botwhaita"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/Fabri115/AyGemuy/"><img title="Size" src="https://img.shields.io/github/repo-size/Fabri115/botwhaita?style=flat-square&color=green"></a>
